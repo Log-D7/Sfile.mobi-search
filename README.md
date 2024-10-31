@@ -15,7 +15,13 @@ To run this script, ensure you have the following installed:
 - `beautifulsoup4` library
 
 ## Installation
-1. **Clone the repository** or download the script file.
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Log-D7/pixeldrain-downloader.git
+   cd Sfile.mobi-search
+   ```
+   
 2. **Install the required libraries** using pip:
 
    ```bash
