@@ -18,7 +18,7 @@ To run this script, ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Log-D7/pixeldrain-downloader.git
+   git clone https://github.com/Log-D7/Sfile.mobi-search
    cd Sfile.mobi-search
    ```
    
